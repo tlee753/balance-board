@@ -1,0 +1,4 @@
+/home/tyler/Github/wii-balance/build/CMakeFiles/rebuild_cache.dir
+/home/tyler/Github/wii-balance/build/CMakeFiles/wii-scale.dir
+/home/tyler/Github/wii-balance/build/CMakeFiles/edit_cache.dir
+/home/tyler/Github/wii-balance/build/CMakeFiles/cppcheck.dir

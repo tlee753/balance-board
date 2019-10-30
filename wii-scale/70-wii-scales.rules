@@ -1,0 +1,1 @@
+KERNEL=="event*", SUBSYSTEM=="input", DRIVERS=="wiimote", MODE="0666"
